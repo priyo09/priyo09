@@ -13,7 +13,7 @@
   "handle": "priyo09",
   "role": "Computer Science Engineering Student",
   "education": "B.Tech CSE · Centurion University of Technology and Management",
-  "location": "Bhubaneswar, Odisha",
+  "location": "Kharagpur, West Bengal",
   "status": ["Learning", "Building", "Shipping"],
   "portfolio": "coming soon",
   "show_email": false,
